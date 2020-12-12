@@ -13,7 +13,7 @@
 # Daypressure is the feeling you have when you've already been in service for a long time,
 # yet you still have way too many days left.
 #---------------------------------------------------------------------------------------------------------------------------------
-# Ascii-art for the Pokemon shamelessly stolen from GitHub.
+# Ascii-art for the Pokemon shamelessly stolen from GitHub. https://gist.github.com/MatheusFaria/4cbb8b6dbe33fd5605cf8b8f7130ba6d
 #---------------------------------------------------------------------------------------------------------------------------------
 # Aamuisin terveisin
 # -Kers. Toivonen
